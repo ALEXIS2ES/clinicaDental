@@ -1,0 +1,13 @@
+Django==2.7
+Pillow
+PyPDF2
+Unipath
+argparse
+ctx
+django-braces
+django-suit
+html5lib
+reportlab
+six
+wsgiref
+xhtml2pdf
