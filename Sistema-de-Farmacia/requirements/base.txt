@@ -1,4 +1,4 @@
-Django==2.7
+Django==3.2.15
 Pillow
 PyPDF2
 Unipath
